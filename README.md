@@ -1,2 +1,3 @@
 Meu Primeiro GIT+GITHUB
-1 altercação
+1º altercação
+1º Alteração Remota
